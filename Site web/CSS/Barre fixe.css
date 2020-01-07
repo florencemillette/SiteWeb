@@ -1,6 +1,6 @@
     @charset "utf-8";
     header {
-        height: 100px;
+        height: 200px;
         background: #bdbdbd;
         position: fixed;
         width: 100%;
@@ -15,7 +15,7 @@
     #contenu {
         width: 100%;
         position: relative;
-        top: 150px;
+        top: 200px;
         background: #ebebeb;
         height: 1500px;
     }
@@ -29,6 +29,20 @@
     #header-contenu {
         width: 1000px;
         margin: 0 auto;
-        padding: 35px 0 0 0;
+        padding: 60px 0 0 0;
         overflow: hidden;
+    }
+    
+    #header-contenu h1 {
+        font-size: 40px;
+        text-transform: uppercase;
+        text-align: center;
+        letter-spacing: 10px;
+    }
+    
+    #header-contenu nav li {
+        float: left;
+        font-size: 20px;
+        margin: 0 0 0 115px;
+        list-style: none;
     }
