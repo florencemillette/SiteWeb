@@ -1,11 +1,17 @@
     @charset "utf-8";
     header {
         height: 200px;
-        background: #c40b61;
+        /*background: #c40b61;*/
         position: fixed;
         width: 100%;
         z-index: 10;
+        background-image: url(../images/headline\ coloré.png);
+        background-size: cover;
     }
+    /*ul a {
+        display: -moz-grid-line;
+        width: 100%;
+    }*/
     
     a {
         color: rgb(143, 233, 233);
@@ -21,7 +27,7 @@
     }
     
     #container {
-        margin: 0;
+        margin: 0px;
         padding: 0;
         border: 0;
     }
@@ -45,4 +51,8 @@
         font-size: 20px;
         margin: 0 0 0 115px;
         list-style: none;
+    }
+    
+    body p {
+        margin: 0px;
     }
