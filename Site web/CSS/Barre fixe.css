@@ -1,14 +1,14 @@
     @charset "utf-8";
     header {
         height: 200px;
-        background: #bdbdbd;
+        background: #c40b61;
         position: fixed;
         width: 100%;
         z-index: 10;
     }
     
     a {
-        color: teal;
+        color: rgb(143, 233, 233);
         text-decoration: none;
     }
     
