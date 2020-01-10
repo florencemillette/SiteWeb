@@ -10,7 +10,7 @@ body {
     height: 10em;
     position: absolute;
     margin: 0;
-    top: 60%;
+    top: 55%;
     left: 50%;
     margin-right: 50%;
     transform: translate(-50%, -50%);
@@ -19,4 +19,23 @@ body {
 a {
     color: rgb(252, 252, 252);
     text-decoration: none;
+}
+
+a:link,
+a:visited {
+    background-color: rgb(199, 185, 185);
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover,
+a:active {
+    background-color: rgb(218, 60, 60);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
 }
