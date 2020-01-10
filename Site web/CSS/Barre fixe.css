@@ -7,6 +7,7 @@
         z-index: 10;
         background-image: url(../images/headline\ coloré.png);
         background-size: cover;
+        margin-left: -10px;
     }
     /*ul a {
         display: -moz-grid-line;
@@ -24,6 +25,7 @@
         top: 200px;
         background: #ebebeb;
         height: 1500px;
+        margin: 0px;
     }
     
     #container {
@@ -56,5 +58,7 @@
     }
     
     body p {
-        margin: 0px;
+        margin: 20px;
+        text-align: justify;
+        margin-top: -10px;
     }
