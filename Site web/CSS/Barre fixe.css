@@ -5,7 +5,7 @@
         position: fixed;
         width: 100%;
         z-index: 10;
-        background-image: url(../images/headline\ coloré.png);
+        background-image: url(../images/fond\ barre\ fixe.png);
         background-size: cover;
         margin-left: -10px;
     }
