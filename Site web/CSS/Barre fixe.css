@@ -1,6 +1,6 @@
     @charset "utf-8";
     header {
-        height: 200px;
+        height: 210px;
         /*background: #c40b61;*/
         position: fixed;
         width: 100%;
@@ -8,13 +8,14 @@
         background-image: url(../images/fond\ barre\ fixe.png);
         background-size: cover;
         margin-left: -10px;
+        margin-top: -20px;
     }
     /*ul a {
         display: -moz-grid-line;
         width: 100%;
     }*/
     
-    a {
+    header a {
         color: rgb(240, 231, 180);
         text-decoration: none;
     }
