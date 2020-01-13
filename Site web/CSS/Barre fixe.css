@@ -16,8 +16,9 @@
     }*/
     
     header a {
-        color: rgb(240, 231, 180);
+        color: rgb(243, 237, 203);
         text-decoration: none;
+        text-shadow: 1px 1px rgb(65, 67, 70);
     }
     
     #contenu {
@@ -26,6 +27,15 @@
         top: 200px;
         background: #ebebeb;
         height: 1500px;
+        margin: 0px;
+    }
+    
+    #casse-tete-fond {
+        width: 100%;
+        position: relative;
+        top: 200px;
+        background: rgb(240, 216, 221);
+        height: 500px;
         margin: 0px;
     }
     
@@ -55,7 +65,7 @@
     #header-contenu nav li {
         float: left;
         font-size: 20px;
-        margin: 0 0 0 60px;
+        margin: 0 0 0 42px;
         text-align: center;
         list-style: none;
     }
