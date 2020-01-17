@@ -81,16 +81,35 @@
         position: relative;
         top: 200px;
         background: #e8e0f7;
-        height: 1500px;
+        height: 3000px;
         margin: 0px;
         columns: 100px 3;
         -webkit-columns: 100px 3;
         /* Safari and Chrome */
         -moz-columns: 100px 3;
         /* Firefox */
-        /*text-align: center;*/
+        text-align: center;
     }
     
-    #contenu-membres ul {
+    #membres {
+        position: relative;
+        /*margin: 10px, 10px, 10px;*/
+        text-align: center;
+    }
+    
+    #contenu-membres p {
         font-size: medium;
+        width: 98%;
+        height: 200px;
+        background-color: #e8e0f7;
+    }
+    
+    #contenu-membres h2 {
+        margin-top: 0px;
+    }
+    
+    #case {
+        width: 90%;
+        height: 700px;
+        background-color: #e8e0f7;
     }
