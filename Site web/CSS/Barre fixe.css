@@ -88,6 +88,9 @@
         /* Safari and Chrome */
         -moz-columns: 100px 3;
         /* Firefox */
+        /*text-align: center;*/
     }
     
-    #contenu-membres h2 {}
+    #contenu-membres ul {
+        font-size: medium;
+    }
