@@ -131,6 +131,10 @@ body p {
     font-family: Helvetica, sans-serif;
 }
 
+#membres img {
+    border-radius: 9px;
+}
+
 #contenu-membres p {
     font-size: medium;
     width: 100%;
@@ -165,6 +169,7 @@ body p {
     position: relative;
     top: 20px;
     margin: 0px;
+    border-radius: 8px;
 }
 
 .images-float-left {
