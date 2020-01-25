@@ -56,7 +56,7 @@ header a {
     position: relative;
     top: 200px;
     background: #d2c7d6;
-    height: 3000px;
+    height: 100%;
     margin: 0px;
 }
 
@@ -176,8 +176,10 @@ body p {
 
 .images-float-left {
     float: left;
+    max-width: 40%;
 }
 
 .images-float-right {
     float: right;
+    max-width: 40%;
 }
