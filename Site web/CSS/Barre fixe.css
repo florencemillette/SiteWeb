@@ -34,6 +34,10 @@ header a {
     font-family: Helvetica, sans-serif;
 }
 
+#contenu img {
+    border-radius: 9px;
+}
+
 #contenu-souvenirs {
     width: 100%;
     position: relative;
