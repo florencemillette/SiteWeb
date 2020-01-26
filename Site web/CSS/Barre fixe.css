@@ -51,6 +51,12 @@ header a {
     width: 31%;
 }
 
+#contenu-souvenirs video {
+    border-radius: 50%;
+    padding: 1%;
+    width: 31%;
+}
+
 #contenu-timeline {
     width: 100%;
     position: relative;
