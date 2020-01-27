@@ -151,10 +151,12 @@ body p {
 #contenu-membres p {
     font-size: large;
     width: 100%;
-    height: 200px;
+    height: 230px;
     background-color: #e8e0f7;
     margin: 0 0 0;
     border: 0;
+    margin-bottom: 30px;
+    display: block;
 }
 
 #contenu-membres h2 {
@@ -163,7 +165,7 @@ body p {
 
 #case {
     width: 100%;
-    height: 850px;
+    height: 25%;
     background-color: #e8e0f7;
 }
 
