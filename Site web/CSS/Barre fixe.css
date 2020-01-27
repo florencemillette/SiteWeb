@@ -145,6 +145,7 @@ body p {
 #membres img {
     border-radius: 9px;
     width: 98%;
+    display: block;
 }
 
 #contenu-membres p {
@@ -154,7 +155,6 @@ body p {
     background-color: #e8e0f7;
     margin: 0 0 0;
     border: 0;
-    top: auto;
 }
 
 #contenu-membres h2 {
